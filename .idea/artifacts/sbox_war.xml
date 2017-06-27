@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sbox:war">
+    <output-path>$PROJECT_DIR$/sbox/target</output-path>
+    <root id="archive" name="sbox.war">
+      <element id="artifact" artifact-name="sbox:war exploded" />
+    </root>
+  </artifact>
+</component>
